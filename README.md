@@ -1,7 +1,8 @@
 # helloWorld
 tutorial
 * test
-' test 2 another edit
-_ test 2 another 
+' test
+_ test trying to creat a conflict
+
 # another test for the tutorial
 # another edit
