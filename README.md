@@ -11,3 +11,4 @@ _ test trying to creat a conflict
 How do you:
 * add a file from git hub interface?
 * explain conflict resolution
+* don't understand the deploy merge->step  https://guides.github.com/introduction/flow/
